@@ -1,0 +1,24 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "axios": "^0.27.2",
+    "discord.js": "^13.6.0",
+    "googleapis": "^100.0.0",
+    "qr-with-logo": "^1.0.5",
+    "qrcode": "^1.5.0",
+    "requests": "^0.3.0",
+    "twit": "^2.2.11",
+    "weather": "^1.0.4",
+    "weather-js": "^2.0.0"
+  }
+}
